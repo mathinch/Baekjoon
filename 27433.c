@@ -20,3 +20,5 @@ int main(void){
 
     return 0;
 }
+
+// 1차 수정본 - git 사용을 위한.
